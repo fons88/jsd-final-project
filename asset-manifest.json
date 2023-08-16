@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jsd-final-project/static/css/main.284adedb.css",
+    "main.js": "/jsd-final-project/static/js/main.6c018443.js",
+    "index.html": "/jsd-final-project/index.html",
+    "main.284adedb.css.map": "/jsd-final-project/static/css/main.284adedb.css.map",
+    "main.6c018443.js.map": "/jsd-final-project/static/js/main.6c018443.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.284adedb.css",
+    "static/js/main.6c018443.js"
+  ]
+}
